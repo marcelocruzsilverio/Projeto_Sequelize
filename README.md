@@ -1,0 +1,1 @@
+Projeto Backend no qual foi criado um projeto de banco de dados utilizando a ferramenta DB Designer, com a implatação desse banco de dados utilizando NodeJs e Express. Foi feita a criação da API utilizando o ORM Sequelize. Também foram feitos os testes dos endpoints utilizando os métodos POST, GET, PUT e DELETE utilizando a ferramenta postman.
